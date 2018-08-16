@@ -95,12 +95,12 @@ mark {
 
 .thanks h2 {
     font-family:'Marck Script', cursive;
-    font-size: 42px;
+    font-size: 40px;
     color:#ededed;
     position: absolute;
     bottom:3%;
     left:3%;
-    padding:0 20px;
+    padding:0 10px;
     font-weight:normal; 
     text-shadow: 0 0 10px #000;
     color:#EEDCB3;
