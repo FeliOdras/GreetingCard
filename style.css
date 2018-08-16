@@ -106,7 +106,7 @@ mark {
     color:#EEDCB3;
     max-width:450px;
     animation-name: headline;
-    animation-duration: 7s;
+    animation-duration: 9s;
 }
 
 @keyframes headline {
